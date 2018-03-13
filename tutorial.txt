@@ -1,0 +1,13 @@
+		---Setting Up A Project---
+
+Step one : 
+	create a github repo
+Step two :
+	create a working folder on your machine and initialize git using : git init
+
+Step three : 
+	linking git repo with github
+	git remote add origin <https link from github>
+	git remote -v (test your connection)
+
+		---Working with code---
