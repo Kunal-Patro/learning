@@ -11,7 +11,7 @@ int main( int argc, char** argv ) {
       return -1;
     }
   
-  //cv::namedWindow( "First TRY", cv::WINDOW_AUTOSIZE );
+  cv::namedWindow( "First TRY", cv::WINDOW_AUTOSIZE );
   cv::imshow( "Second TRY", image );
   
   cv::waitKey(0);
